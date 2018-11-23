@@ -42,6 +42,7 @@ RUN apt-get update && \
         python3 \
         subversion \
         swig \
+        vim \
         xmlto \
         zlib1g-dev && \
     apt-get clean && \
